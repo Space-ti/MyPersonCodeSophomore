@@ -128,6 +128,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="动态规划LIS问题.cpp" />
+    <ClCompile Include="动态规划求解LCS问题.cpp" />
+    <ClCompile Include="动态规划硬币问题.cpp" />
+    <ClCompile Include="最大子段和.cpp" />
     <ClCompile Include="第一条.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

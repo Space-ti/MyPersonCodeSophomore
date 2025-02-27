@@ -18,5 +18,17 @@
     <ClCompile Include="第一条.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="动态规划LIS问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划硬币问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子段和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划求解LCS问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
